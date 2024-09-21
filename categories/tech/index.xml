@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech on Schuyler Blog</title>
+    <link>//localhost:1313/categories/tech/</link>
+    <description>Recent content in Tech on Schuyler Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Sep 2024 08:52:12 -0700</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024 9 20 Fucku Luck555</title>
+      <link>//localhost:1313/post/2024-9-20-fucku-luck555/</link>
+      <pubDate>Fri, 20 Sep 2024 08:52:12 -0700</pubDate>
+      <guid>//localhost:1313/post/2024-9-20-fucku-luck555/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2024 9 20 Fucku Kia</title>
+      <link>//localhost:1313/post/2024-9-20-fucku-kia/</link>
+      <pubDate>Fri, 20 Sep 2024 08:25:54 -0700</pubDate>
+      <guid>//localhost:1313/post/2024-9-20-fucku-kia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2024 9 20 Fucku Kimi</title>
+      <link>//localhost:1313/post/2024-9-20-fucku-kimi/</link>
+      <pubDate>Fri, 20 Sep 2024 08:21:32 -0700</pubDate>
+      <guid>//localhost:1313/post/2024-9-20-fucku-kimi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fuck you! Trump!</title>
+      <link>//localhost:1313/post/2024-9-20-fucku-trump/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024-9-20-fucku-trump/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2024 9 20 Fucku Nami</title>
+      <link>//localhost:1313/post/2024-9-20-fucku-nami/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024-9-20-fucku-nami/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>An Example Post</title>
+      <link>//localhost:1313/post/2024-9-20-fucku-obama/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024-9-20-fucku-obama/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2024 9 20 Fucku Kim</title>
+      <link>//localhost:1313/post/2024-9-20-fucku-kim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024-9-20-fucku-kim/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2024 9 20 Fucku Luck666</title>
+      <link>//localhost:1313/post/2024-9-20-fucku-luck666/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2024-9-20-fucku-luck666/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
